@@ -1,0 +1,9 @@
+Package: com.0xkuj.hidesuggestedmessenger
+Name: Hide Suggested Messenger
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hide annoying suggested contacts in Facebook Messeneger
+Maintainer: 0xkuj
+Author: 0xkuj
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
